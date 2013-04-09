@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://zhongw.github.com/zhongw/blog/2013/04/07/hello-world/</loc>
+        <loc>http://zhongw.github.io/blog/2013/04/07/hello-world/</loc>
         <lastmod>2013-04-08T22:40:55+08:00</lastmod>
     </url>
     <url>
-        <loc>http://zhongw.github.com/zhongw/blog/2013/04/08/test/</loc>
+        <loc>http://zhongw.github.io/blog/2013/04/08/test/</loc>
         <lastmod>2013-04-08T22:40:55+08:00</lastmod>
     </url>
     <url>
-        <loc>http://zhongw.github.com/zhongw/blog/archives/</loc>
+        <loc>http://zhongw.github.io/blog/archives/</loc>
         <lastmod>2013-04-08T22:40:55+08:00</lastmod>
     </url>
     <url>
-        <loc>http://zhongw.github.com/zhongw/</loc>
+        <loc>http://zhongw.github.io/</loc>
         <lastmod>2013-04-08T22:40:55+08:00</lastmod>
     </url>
     <url>
-        <loc>http://zhongw.github.com/zhongw/robots.txt</loc>
+        <loc>http://zhongw.github.io/robots.txt</loc>
         <lastmod>2013-04-08T22:40:55+08:00</lastmod>
     </url>
 </urlset>
