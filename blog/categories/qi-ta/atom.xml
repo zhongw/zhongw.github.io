@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: 鍏跺畠 | 知秋一叶]]></title>
-  <link href="http://zhongw.github.io/blog/categories/wei-duo-cen/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 其它 | 知秋一叶]]></title>
+  <link href="http://zhongw.github.io/blog/categories/qi-ta/atom.xml" rel="self"/>
   <link href="http://zhongw.github.io/"/>
-  <updated>2013-04-10T21:34:26+08:00</updated>
+  <updated>2013-04-10T21:38:14+08:00</updated>
   <id>http://zhongw.github.io/</id>
   <author>
     <name><![CDATA[知秋一叶]]></name>
@@ -14,12 +14,17 @@
 
   
   <entry>
-    <title type="html"><![CDATA[娴嬭瘯鏃ュ織]]></title>
+    <title type="html"><![CDATA[测试日志]]></title>
     <link href="http://zhongw.github.io/blog/2013/04/08/test/"/>
     <updated>2013-04-08T22:27:00+08:00</updated>
     <id>http://zhongw.github.io/blog/2013/04/08/test</id>
-    <content type="html"><![CDATA[<p><em>hello
-</em>hi</p>
+    <content type="html"><![CDATA[<ul>
+<li>hello</li>
+<li>hi
+1.fasdf
+2.3243</li>
+</ul>
+
 ]]></content>
   </entry>
   
