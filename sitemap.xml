@@ -1,14 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://zhongw.github.io/blog/2013/04/07/hello-world/</loc>
-        <lastmod>2013-04-08T22:40:55+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://zhongw.github.io/blog/2013/04/08/test/</loc>
-        <lastmod>2013-04-10T21:38:06+08:00</lastmod>
-    </url>
-    <url>
         <loc>http://zhongw.github.io/blog/2013/04/10/faq-for-setup-octopress-on-github/</loc>
         <lastmod>2013-04-10T22:18:59+08:00</lastmod>
     </url>
