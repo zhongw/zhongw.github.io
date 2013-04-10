@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[知秋一叶]]></title>
-  <link href="http://zhongw.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 鍏跺畠 | 知秋一叶]]></title>
+  <link href="http://zhongw.github.io/blog/categories/wei-duo-cen/atom.xml" rel="self"/>
   <link href="http://zhongw.github.io/"/>
   <updated>2013-04-10T21:34:26+08:00</updated>
   <id>http://zhongw.github.io/</id>
@@ -20,15 +20,6 @@
     <id>http://zhongw.github.io/blog/2013/04/08/test</id>
     <content type="html"><![CDATA[<p><em>hello
 </em>hi</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[hello world]]></title>
-    <link href="http://zhongw.github.io/blog/2013/04/07/hello-world/"/>
-    <updated>2013-04-07T22:35:00+08:00</updated>
-    <id>http://zhongw.github.io/blog/2013/04/07/hello-world</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
