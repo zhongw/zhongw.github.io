@@ -4,7 +4,7 @@
   <title><![CDATA[知秋一叶]]></title>
   <link href="http://zhongw.github.io/atom.xml" rel="self"/>
   <link href="http://zhongw.github.io/"/>
-  <updated>2013-04-10T21:40:26+08:00</updated>
+  <updated>2013-04-10T22:19:13+08:00</updated>
   <id>http://zhongw.github.io/</id>
   <author>
     <name><![CDATA[知秋一叶]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[在GitHub上搭建Octopress博客-FAQ]]></title>
+    <link href="http://zhongw.github.io/blog/2013/04/10/faq-for-setup-octopress-on-github/"/>
+    <updated>2013-04-10T21:56:00+08:00</updated>
+    <id>http://zhongw.github.io/blog/2013/04/10/faq-for-setup-octopress-on-github</id>
+    <content type="html"><![CDATA[<p>在搭建Octopress的过程中，出现了很多问题，借助Google、百度也都一一得到解决，为了方便查询，将自己遇到的问题罗列在此。</p>
+
+<ol>
+<li>FAQ #1：rake deploy后username.github.io显示404.
+这个问题是没有严格按照要求创建Repository, Repository的名字是“Github帐号.github.com”，而不是“Github的帐号”。</li>
+<li>FAQ #2:</li>
+</ol>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[测试日志]]></title>
